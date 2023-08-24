@@ -1,11 +1,11 @@
 [
   {
     "name": "vue",
-    "version": "3.2.45"
+    "version": "3.3.4"
   },
   {
     "name": "angular",
-    "version": "15.0.2"
+    "version": "16.2.2"
   },
   {
     "name": "react",
@@ -13,11 +13,11 @@
   },
   {
     "name": "ember",
-    "version": "4.8.0"
+    "version": "5.2.0"
   },
   {
     "name": "svelte",
-    "version": "3.54.0"
+    "version": "4.2.0"
   },
   {
     "name": "aurelia",
@@ -25,34 +25,38 @@
   },
   {
     "name": "next",
-    "version": "13.0.6"
+    "version": "13.4.19"
   },
   {
     "name": "solid",
-    "version": "1.6.3"
-  },
-  {
-    "name": "solid",
-    "version": "1.6.3"
+    "version": "1.7.11"
   },
   {
     "name": "qwik",
-    "version": "0.15.2"
+    "version": "1.2.8"
   },
   {
     "name": "typescript",
-    "version": "4.9.3"
+    "version": "5.1.6"
   },
   {
     "name": "flow",
-    "version": "0.194.0"
+    "version": "0.215.1"
+  },
+  {
+    "name": "babel",
+    "version": "7.22.10"
   },
   {
     "name": "rxjs",
-    "version": "7.6.0"
+    "version": "7.8.1"
   },
   {
     "name": "jquery",
-    "version": "3.6.1"
+    "version": "3.7.0"
+  },
+  {
+    "name": "elm",
+    "version": "0.19.1-5"
   }
 ]
