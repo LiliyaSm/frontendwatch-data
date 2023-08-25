@@ -37,7 +37,7 @@
   },
   {
     "name": "typescript",
-    "version": "5.1.6"
+    "version": "5.2.2"
   },
   {
     "name": "flow",
@@ -45,7 +45,7 @@
   },
   {
     "name": "babel",
-    "version": "7.22.10"
+    "version": "7.22.11"
   },
   {
     "name": "rxjs",
